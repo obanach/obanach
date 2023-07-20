@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obanach
 - 👀 I’m interested in IoT and web development
-- 🌱 I’m currently learning Symfony & AWS
+- 🌱 I’m currently learning Symfony & React with Tailwind CSS
 - 💞️ I’m looking to collaborate on something creative and innovative
 - 📫 How to reach me? Just mail me ;)
 
