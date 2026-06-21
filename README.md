@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @obanach
-- 👀 I’m interested in IoT and web development
-- 🌱 I’m currently learning Symfony & React with Tailwind CSS
-- 💞️ I’m looking to collaborate on something creative and innovative
-- 📫 How to reach me? Just mail me ;)
+Hi, I’m @obanach
+I do AI with AI
 
 <!---
 obanach/obanach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
